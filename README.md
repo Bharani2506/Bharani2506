@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bharanidharan M
-- 👀 I’m interested in Web Based and Android programs
-- 🌱 I’m currently learning Java Script,Angular,React 
+- 👀 I’m interested in Big Data 
+- 🌱 I’m currently learning SQL, Python 
 - 📫 https://www.linkedin.com/in/bharanidharan-m-6b579616b/
 
 

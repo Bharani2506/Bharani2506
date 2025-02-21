@@ -21,11 +21,10 @@
 ### 📈 **GitHub Stats**
 | Stats | Streak | Languages |
 |-------|--------|------------|
-| ![Bharanidharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharani2506&show_icons=true&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharani2506&layout=compact&theme=radical) |
+| ![Bharanidharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharani2506&show_icons=true&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com?user=Bharani2506&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharani2506&layout=compact&theme=radical) |
 
 ---
 
 ### 📫 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharanidharan-murugesan-6b579616b/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bharani2506.github.io/my-portfolio/)

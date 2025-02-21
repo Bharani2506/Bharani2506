@@ -19,9 +19,9 @@
 ---
 
 ### 📈 **GitHub Stats**
-| Stats | Streak | Languages |
-|-------|--------|------------|
-| ![Bharanidharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharani2506&show_icons=true&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com?user=Bharani2506&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharani2506&layout=compact&theme=radical) |
+| Stats | Languages |
+|-------|------------|
+| ![Bharanidharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharani2506&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharani2506&layout=compact&theme=radical) |
 
 ---
 
